@@ -47,3 +47,10 @@ QWEN.md
 /scratch/
 *.tmp
 *.cmd
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
